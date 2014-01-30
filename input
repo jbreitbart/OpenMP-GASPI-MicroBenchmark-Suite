@@ -1,0 +1,29 @@
+1
+4194304
+1.00
+masteronlyPingpong
+0 1
+funnelledPingpong
+3 1
+multiplePingpong
+-1 0
+masteronlyPingping
+0 1
+funnelledPingping
+3 1
+multiplePingping
+-1 0
+masteronlymultiPingpong
+funnelledmultiPingpong
+multiplemultiPingpong
+masteronlymultiPingping
+funnelledmultiPingping
+multiplemultiPingping
+masteronlyHaloExchange
+funnelledHaloExchange
+multipleHaloExchange
+alltoall
+gather
+allReduce
+barrier
+scatter
